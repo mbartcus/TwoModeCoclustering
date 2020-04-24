@@ -4,7 +4,7 @@ A scalable two-level co-clustering algorithm
 ##Introduction to source code for paper: 
 "A scalable two-level co-clustering algorithm"
 
-Marius Bartcus, Marc BoullÈ, Fabrice ClÈrot
+Marius Bartcus, Marc Boullé, Fabrice Clérot
 
 firstname.lastname@orange.com
 
