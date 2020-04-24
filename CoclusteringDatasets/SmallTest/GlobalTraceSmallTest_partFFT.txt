@@ -1,0 +1,137 @@
+Start optimisation
+2018-02-20 09:04:21.756554	 Init Large Scale DataSet
+2018-02-20 09:04:21.756554	 Clean working data
+2018-02-20 09:04:21.756554	 End Clean working data
+2018-02-20 09:04:21.756554	 End Init Large Scale DataSet
+2018-02-20 09:04:21.756554	 Start train optimized co-clustering
+2018-02-20 09:04:21.756554	 Detect and create if necessary working directory: 	 D:/Utilisateur/Marius/temp/SmallTest/
+2018-02-20 09:04:21.757554	 End Detect working directory
+2018-02-20 09:04:21.776556	 File:	D:/Utilisateur/Marius/TwoModeCoclustering_clear_v2/CoclusteringDatasets/SmallTest/SmallTest.txt	 Vx:	2000 	 Vy:	2000
+2018-02-20 09:04:21.776556	 Start partitioning step: 
+2018-02-20 09:04:21.778556	 Start KHCp 	 Vx:	2000	 Vy:	2000	 N:	1000000	 Ic:	10	 Jc:	10 
+2018-02-20 09:04:22.362615	 End KHCp 	 Ic:	10	 Jc:	10 
+2018-02-20 09:04:22.362615	 Run split data sets 
+2018-02-20 09:04:22.528631	 End split data sets 
+2018-02-20 09:04:22.528631	 End partitioning step: 
+2018-02-20 09:04:22.528631	 Run fine coclustering step: 
+2018-02-20 09:04:22.534632	 Fine coclustering 	(Ic,Jc):	('C7', 'C1') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:22.541633	 Fine coclustering 	(Ic,Jc):	('C2', 'C5') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:22.547633	 Fine coclustering 	(Ic,Jc):	('C5', 'C10') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:22.553634	 Fine coclustering 	(Ic,Jc):	('C9', 'C4') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:22.559634	 Fine coclustering 	(Ic,Jc):	('C9', 'C9') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:22.565635	 Fine coclustering 	(Ic,Jc):	('C1', 'C9') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:24.625841	 Fine coclustering 	(Ic,Jc):	('C4', 'C6') 	 Ix:	200 	 Iy:	200 
+2018-02-20 09:04:24.634842	 Fine coclustering 	(Ic,Jc):	('C10', 'C6') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:24.643843	 Fine coclustering 	(Ic,Jc):	('C6', 'C7') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:24.652844	 Fine coclustering 	(Ic,Jc):	('C1', 'C7') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:24.661845	 Fine coclustering 	(Ic,Jc):	('C2', 'C10') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:24.670846	 Fine coclustering 	(Ic,Jc):	('C7', 'C6') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:24.679846	 Fine coclustering 	(Ic,Jc):	('C2', 'C3') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:24.688847	 Fine coclustering 	(Ic,Jc):	('C8', 'C5') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:24.696848	 Fine coclustering 	(Ic,Jc):	('C10', 'C7') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:24.705849	 Fine coclustering 	(Ic,Jc):	('C6', 'C5') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:24.714850	 Fine coclustering 	(Ic,Jc):	('C8', 'C10') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:24.723851	 Fine coclustering 	(Ic,Jc):	('C9', 'C3') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:24.732852	 Fine coclustering 	(Ic,Jc):	('C8', 'C9') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:24.741853	 Fine coclustering 	(Ic,Jc):	('C3', 'C3') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:24.749853	 Fine coclustering 	(Ic,Jc):	('C8', 'C7') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:24.756854	 Fine coclustering 	(Ic,Jc):	('C1', 'C1') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:26.524031	 Fine coclustering 	(Ic,Jc):	('C5', 'C9') 	 Ix:	200 	 Iy:	200 
+2018-02-20 09:04:26.525031	 Fine coclustering 	(Ic,Jc):	('C2', 'C7') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:26.526031	 Fine coclustering 	(Ic,Jc):	('C7', 'C5') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:26.526031	 Fine coclustering 	(Ic,Jc):	('C3', 'C1') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:26.527031	 Fine coclustering 	(Ic,Jc):	('C10', 'C3') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:26.528031	 Fine coclustering 	(Ic,Jc):	('C3', 'C2') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:26.528031	 Fine coclustering 	(Ic,Jc):	('C10', 'C5') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:26.529031	 Fine coclustering 	(Ic,Jc):	('C1', 'C4') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:26.530031	 Fine coclustering 	(Ic,Jc):	('C4', 'C5') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:26.531032	 Fine coclustering 	(Ic,Jc):	('C10', 'C10') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:28.314210	 Fine coclustering 	(Ic,Jc):	('C6', 'C10') 	 Ix:	200 	 Iy:	200 
+2018-02-20 09:04:28.315210	 Fine coclustering 	(Ic,Jc):	('C9', 'C10') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:28.315210	 Fine coclustering 	(Ic,Jc):	('C8', 'C3') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:28.316210	 Fine coclustering 	(Ic,Jc):	('C5', 'C2') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:28.316210	 Fine coclustering 	(Ic,Jc):	('C2', 'C6') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:28.317210	 Fine coclustering 	(Ic,Jc):	('C4', 'C8') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:28.318210	 Fine coclustering 	(Ic,Jc):	('C5', 'C7') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:28.318210	 Fine coclustering 	(Ic,Jc):	('C2', 'C4') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:28.319210	 Fine coclustering 	(Ic,Jc):	('C6', 'C4') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:28.319210	 Fine coclustering 	(Ic,Jc):	('C8', 'C2') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:28.320210	 Fine coclustering 	(Ic,Jc):	('C7', 'C8') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:28.320210	 Fine coclustering 	(Ic,Jc):	('C10', 'C9') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:28.321211	 Fine coclustering 	(Ic,Jc):	('C10', 'C8') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:28.322211	 Fine coclustering 	(Ic,Jc):	('C3', 'C6') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:30.081387	 Fine coclustering 	(Ic,Jc):	('C1', 'C3') 	 Ix:	200 	 Iy:	200 
+2018-02-20 09:04:30.081387	 Fine coclustering 	(Ic,Jc):	('C4', 'C2') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:30.082387	 Fine coclustering 	(Ic,Jc):	('C5', 'C3') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:30.083387	 Fine coclustering 	(Ic,Jc):	('C5', 'C5') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:31.814560	 Fine coclustering 	(Ic,Jc):	('C7', 'C2') 	 Ix:	200 	 Iy:	200 
+2018-02-20 09:04:31.815560	 Fine coclustering 	(Ic,Jc):	('C9', 'C2') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:31.815560	 Fine coclustering 	(Ic,Jc):	('C4', 'C3') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:31.816560	 Fine coclustering 	(Ic,Jc):	('C10', 'C2') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:33.662745	 Fine coclustering 	(Ic,Jc):	('C9', 'C7') 	 Ix:	200 	 Iy:	200 
+2018-02-20 09:04:33.663745	 Fine coclustering 	(Ic,Jc):	('C7', 'C3') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:33.664745	 Fine coclustering 	(Ic,Jc):	('C6', 'C9') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:33.664745	 Fine coclustering 	(Ic,Jc):	('C1', 'C8') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:33.665745	 Fine coclustering 	(Ic,Jc):	('C4', 'C7') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:33.665745	 Fine coclustering 	(Ic,Jc):	('C2', 'C1') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:33.666745	 Fine coclustering 	(Ic,Jc):	('C6', 'C2') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:33.666745	 Fine coclustering 	(Ic,Jc):	('C9', 'C6') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:33.667745	 Fine coclustering 	(Ic,Jc):	('C1', 'C6') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:33.667745	 Fine coclustering 	(Ic,Jc):	('C5', 'C8') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:33.668745	 Fine coclustering 	(Ic,Jc):	('C7', 'C7') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:33.669745	 Fine coclustering 	(Ic,Jc):	('C8', 'C8') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:33.669745	 Fine coclustering 	(Ic,Jc):	('C7', 'C9') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:33.670745	 Fine coclustering 	(Ic,Jc):	('C7', 'C10') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:33.670745	 Fine coclustering 	(Ic,Jc):	('C4', 'C9') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:33.671746	 Fine coclustering 	(Ic,Jc):	('C4', 'C10') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:33.672746	 Fine coclustering 	(Ic,Jc):	('C1', 'C5') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:33.672746	 Fine coclustering 	(Ic,Jc):	('C1', 'C2') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:33.673746	 Fine coclustering 	(Ic,Jc):	('C9', 'C5') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:33.673746	 Fine coclustering 	(Ic,Jc):	('C8', 'C6') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:33.674746	 Fine coclustering 	(Ic,Jc):	('C10', 'C1') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:33.674746	 Fine coclustering 	(Ic,Jc):	('C5', 'C4') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:33.675746	 Fine coclustering 	(Ic,Jc):	('C9', 'C8') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:33.675746	 Fine coclustering 	(Ic,Jc):	('C1', 'C10') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:35.540932	 Fine coclustering 	(Ic,Jc):	('C8', 'C1') 	 Ix:	200 	 Iy:	200 
+2018-02-20 09:04:35.541933	 Fine coclustering 	(Ic,Jc):	('C3', 'C8') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:35.542933	 Fine coclustering 	(Ic,Jc):	('C6', 'C8') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:35.543933	 Fine coclustering 	(Ic,Jc):	('C5', 'C6') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:35.543933	 Fine coclustering 	(Ic,Jc):	('C3', 'C7') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:35.544933	 Fine coclustering 	(Ic,Jc):	('C2', 'C9') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:35.544933	 Fine coclustering 	(Ic,Jc):	('C2', 'C2') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:35.545933	 Fine coclustering 	(Ic,Jc):	('C8', 'C4') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:37.759154	 Fine coclustering 	(Ic,Jc):	('C3', 'C5') 	 Ix:	200 	 Iy:	200 
+2018-02-20 09:04:37.760154	 Fine coclustering 	(Ic,Jc):	('C6', 'C3') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:37.761154	 Fine coclustering 	(Ic,Jc):	('C4', 'C4') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:37.761154	 Fine coclustering 	(Ic,Jc):	('C6', 'C1') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:37.762155	 Fine coclustering 	(Ic,Jc):	('C7', 'C4') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:39.609339	 Fine coclustering 	(Ic,Jc):	('C10', 'C4') 	 Ix:	200 	 Iy:	200 
+2018-02-20 09:04:39.610339	 Fine coclustering 	(Ic,Jc):	('C4', 'C1') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:39.611339	 Fine coclustering 	(Ic,Jc):	('C9', 'C1') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:41.498528	 Fine coclustering 	(Ic,Jc):	('C2', 'C8') 	 Ix:	200 	 Iy:	200 
+2018-02-20 09:04:41.499528	 Fine coclustering 	(Ic,Jc):	('C5', 'C1') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:41.499528	 Fine coclustering 	(Ic,Jc):	('C3', 'C10') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:41.500528	 Fine coclustering 	(Ic,Jc):	('C6', 'C6') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:41.500528	 Fine coclustering 	(Ic,Jc):	('C3', 'C9') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:41.501528	 Fine coclustering 	(Ic,Jc):	('C3', 'C4') 	 Ix:	1 	 Iy:	1 
+2018-02-20 09:04:41.501528	 End fine coclustering step: 
+2018-02-20 09:04:41.501528	 Run mitigate coclustering step 
+2018-02-20 09:04:41.686547	 End mitigate coclustering step 	 Micro Ix: 	 2000 	 Micro Iy: 	 2000
+2018-02-20 09:04:41.686547	 Run Amalgamation step 
+2018-02-20 09:04:41.686547	 Run Amalgamation column data sets 	 Ic:	10	 micro clusters Vx:	2000 
+2018-02-20 09:04:41.686547	 Run Amalgamation row data sets 	 Jc:	10	 micro clusters Vy:	2000 
+2018-02-20 09:04:41.690547	 End Amalgamation step 
+2018-02-20 09:04:41.690547	 Run post optimization coclustering step 
+2018-02-20 09:04:41.691547	 Run Recode mini clusters 
+2018-02-20 09:04:41.720550	 End Recode mini clusters 	 Output file: 	 D:/Utilisateur/Marius/temp/SmallTest/post/SmallTest_micro.txt
+2018-02-20 09:04:41.721550	 Run KHCc on mini clusters 
+2018-02-20 09:04:58.820260	 End KHCc on mini clusters 	 Ix mini:	 476	 Iy mini:	 476
+2018-02-20 09:04:58.820260	 Run format mini clusters to true values 
+2018-02-20 09:05:00.019380	 End format mini clusters to true values 	 Ix mini:	 476	 Iy mini:	 476
+2018-02-20 09:05:00.019380	 Run KHCe
+2018-02-20 09:05:02.525631	 End KHCe 	 level: 	 0.3641166735
+2018-02-20 09:05:02.525631	 End post optimization coclustering step 
+2018-02-20 09:05:02.526631	 End train optimized co-clustering 	 Output:  SmallTest.khc
+2018-02-20 09:05:02.527631	 Clean working data
+2018-02-20 09:05:02.529631	 End Clean working data
+Stop optimisation

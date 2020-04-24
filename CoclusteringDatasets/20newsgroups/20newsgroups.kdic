@@ -1,0 +1,13 @@
+Dictionary	documentWord(docIdx)
+{
+	Categorical	docIdx		;	
+	Categorical	word		;	
+	Numerical	count		;	
+};
+
+Root	Dictionary	document(docIdx)
+{
+	Categorical	docIdx		;	
+	Table(documentWord)	words	;
+	Categorical	label 	;	
+};

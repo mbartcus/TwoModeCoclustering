@@ -1,0 +1,8 @@
+#Khiops 8.4.0a
+
+Dictionary	RealData
+{
+	Numerical	Freq		;	
+	Categorical	X		;	
+	Categorical	Y		;	
+};

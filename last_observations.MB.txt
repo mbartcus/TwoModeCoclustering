@@ -1,0 +1,28 @@
+Observations on preoptimization step:
+1) FFT (false false true) moving values is made logN times
+2) TFF (true false false) moving values is made 4 times
+
+***20NewsGroup dataset
+		Level	Time(s)
+FFT		0.2233	21415
+TFF		0.0164	14084
+
+***Netflix1
+		Level	Time(s)
+FFT		0.01284	704
+TFF		0.01220	536.72
+
+***Netflix10
+		Level	Time(s)
+FFT		0.01586	8276
+TFF		0.01499	8138
+
+***Nova
+		Level	Time(s)
+FFT		0.01121	1989
+TFF		0.0101	1753
+
+
+- FFT gives a better solution but in a more time
+- TFF is faster
+- running in anytime will produce a better solution
